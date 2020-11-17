@@ -1,2 +1,1 @@
-# issues
-Issues and feature requests for vgmdb.net
+# VGMdb.net Issues and Feature Requests tracker
